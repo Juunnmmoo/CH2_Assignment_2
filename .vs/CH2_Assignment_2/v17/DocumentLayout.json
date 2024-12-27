@@ -1,12 +1,69 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Junmo\\Desktop\\Assignment\\CH2_Assignment_2\\CH2_Assignment_2\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Junmo\\Desktop\\Assignment\\CH2_Assignment_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppBuild.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE3D702-DFB1-40A4-92F2-CADBCADA75B4}|CH2_Assignment_2\\CH2_Assignment_2.vcxproj|C:\\Users\\Junmo\\Desktop\\Assignment\\CH2_Assignment_2\\CH2_Assignment_2\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3AE3D702-DFB1-40A4-92F2-CADBCADA75B4}|CH2_Assignment_2\\CH2_Assignment_2.vcxproj|solutionrelative:CH2_Assignment_2\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE3D702-DFB1-40A4-92F2-CADBCADA75B4}|CH2_Assignment_2\\CH2_Assignment_2.vcxproj|C:\\Users\\Junmo\\Desktop\\Assignment\\CH2_Assignment_2\\CH2_Assignment_2\\Animal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3AE3D702-DFB1-40A4-92F2-CADBCADA75B4}|CH2_Assignment_2\\CH2_Assignment_2.vcxproj|solutionrelative:CH2_Assignment_2\\Animal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Microsoft.CppBuild.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppBuild.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppBuild.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppBuild.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppBuild.targets",
+              "ViewState": "AgIAAAMCAAAAAAAAAAD4vxsCAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-12-27T06:06:25.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Animal.h",
+              "DocumentMoniker": "C:\\Users\\Junmo\\Desktop\\Assignment\\CH2_Assignment_2\\CH2_Assignment_2\\Animal.h",
+              "RelativeDocumentMoniker": "CH2_Assignment_2\\Animal.h",
+              "ToolTip": "C:\\Users\\Junmo\\Desktop\\Assignment\\CH2_Assignment_2\\CH2_Assignment_2\\Animal.h",
+              "RelativeToolTip": "CH2_Assignment_2\\Animal.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-27T05:16:46.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\Junmo\\Desktop\\Assignment\\CH2_Assignment_2\\CH2_Assignment_2\\Main.cpp",
+              "RelativeDocumentMoniker": "CH2_Assignment_2\\Main.cpp",
+              "ToolTip": "C:\\Users\\Junmo\\Desktop\\Assignment\\CH2_Assignment_2\\CH2_Assignment_2\\Main.cpp",
+              "RelativeToolTip": "CH2_Assignment_2\\Main.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwGEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-27T05:15:13.573Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
